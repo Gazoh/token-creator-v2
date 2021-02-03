@@ -1,0 +1,49 @@
+[
+    {
+        "chainID_list": [
+            "0x2d59CFd81641bBDF502b7d6328877a000067E8E",
+            "0x520595ABC1Af2BB7ed904282e1A73b6d81855a21",
+            "0xD05ea794BA49D3983FCdb6b0Fe76eEA3614d2174",
+            "0x8E7c869c3eA55F4701826494CC83d15885C06DF6",
+            "0x60Fb029de9cE6db8A3ED1CCb89fb3bB87330D17A",
+            "0x6986f4FD0290bd948411c15EcC3B0745d83c62F4",
+            "0xC7168D81B4396CfFd6a2Ece9b90F74eEC443cbF7",
+            "0xAB00Bf9544f10EF2cF7e8C24E845ae6B62dcd413",
+            "0x69eF61AFc3AA356e1ac97347119d75cBdAbEF534",
+            "0x2de590b83F80323A81B2170ab169a408bC3E6c3b",
+            "0x589169EEE30B318dDf501aEe0a2463B35d4cA9b8",
+            "0x5DB8638D35E022467F3Bc8eFC93ec7Cd126A370e"
+        ],
+        "tokenList": "http://gazoh.net/token_list.json"
+    },
+    {
+        "chainID_list": [
+            "0x2de590b83f80323a81b2170ab169a408bc3e6c3b"
+        ],
+        "tokenList": "http://gazoh.net/cem.json"
+    },
+    {
+        "chainID_list": [
+            "0x589169eee30b318ddf501aee0a2463b35d4ca9b8"
+        ],
+        "tokenList": "http://gazoh.net/testingone.json"
+    },
+    {
+        "chainID_list": [
+            "0x589169eee30b318ddf501aee0a2463b35d4ca9b8"
+        ],
+        "tokenList": "http://gazoh.net/boeeeee.json"
+    },
+    {
+        "chainID_list": [
+            "0x5db8638d35e022467f3bc8efc93ec7cd126a370e"
+        ],
+        "tokenList": "http://gazoh.net/TestOneMillion.json"
+    },
+    {
+        "chainID_list": [
+            "0x5db8638d35e022467f3bc8efc93ec7cd126a370e"
+        ],
+        "tokenList": "http://gazoh.net/NerdList5.json"
+    }
+]

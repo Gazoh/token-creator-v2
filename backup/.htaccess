@@ -1,0 +1,6 @@
+RewriteEngine off
+RewriteEngine on
+
+<FilesMatch "\.json">
+    Header set Access-Control-Allow-Origin "*"
+</FilesMatch>

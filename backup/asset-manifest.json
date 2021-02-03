@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2f644121.chunk.css",
+    "main.js": "/static/js/main.9b0d0af5.chunk.js",
+    "main.js.map": "/static/js/main.9b0d0af5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8adf9fb0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8adf9fb0.js.map",
+    "static/css/2.6b5d40a7.chunk.css": "/static/css/2.6b5d40a7.chunk.css",
+    "static/js/2.51de4141.chunk.js": "/static/js/2.51de4141.chunk.js",
+    "static/js/2.51de4141.chunk.js.map": "/static/js/2.51de4141.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1b1fbbbf3407352b3e375394cd80169e.js": "/precache-manifest.1b1fbbbf3407352b3e375394cd80169e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.6b5d40a7.chunk.css.map": "/static/css/2.6b5d40a7.chunk.css.map",
+    "static/css/main.2f644121.chunk.css.map": "/static/css/main.2f644121.chunk.css.map",
+    "static/js/2.51de4141.chunk.js.LICENSE.txt": "/static/js/2.51de4141.chunk.js.LICENSE.txt",
+    "static/media/dfo.svg": "/static/media/dfo.598c23f5.svg",
+    "static/media/nerd-finance-logo.svg": "/static/media/nerd-finance-logo.9fd700fa.svg",
+    "static/media/uniswap.svg": "/static/media/uniswap.0876893c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8adf9fb0.js",
+    "static/css/2.6b5d40a7.chunk.css",
+    "static/js/2.51de4141.chunk.js",
+    "static/css/main.2f644121.chunk.css",
+    "static/js/main.9b0d0af5.chunk.js"
+  ]
+}

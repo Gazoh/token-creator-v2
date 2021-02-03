@@ -1,0 +1,30 @@
+RewriteEngine off
+RewriteEngine on
+
+# Never cache these...
+# HTTP 1.1=>Cache-Control, HTTP 1.0=>pragma and Expires=>proxy
+
+# for html,htm,json,js,css as follows
+<filesMatch "\.(html|htm|json|js|css)$">
+  FileETag None
+  <ifModule mod_headers.c>
+     Header unset ETag
+     Header set Cache-Control "max-age=0, no-cache, no-store, must-revalidate"
+     Header set Pragma "no-cache"
+     Header set Expires "0"
+  </ifModule>
+</filesMatch>
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+  RewriteRule ^index\.html$ - [L]
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME} !-l
+  RewriteRule . /index.html [L]
+</IfModule>
+
+<FilesMatch "\.json">
+    Header set Access-Control-Allow-Origin "*"
+</FilesMatch>

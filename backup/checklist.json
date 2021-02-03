@@ -1,0 +1,12 @@
+{
+    "list": [
+        {
+            "chainID_list": ["0x2de590b83F80323A81B2170ab169a408bC3E6c3b"],
+            "tokenList": "https://nerd.finance/token_list.json"
+        },
+        {
+            "chainID_list": ["0x2de590b83F80323A81B2170ab169a408bASD24AA"],
+            "tokenList": "https://nerd.finance/token_list.json"
+        }
+    ]
+}
